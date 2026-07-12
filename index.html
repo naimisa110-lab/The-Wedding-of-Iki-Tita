@@ -217,7 +217,7 @@
                             <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=600" alt="Groom" class="w-full h-full arch-img">
                         </div>
                         <h3 class="font-serif text-3xl font-bold text-text-brown mb-2">Rizkiyanto Umar SH.</h3>
-                        <p class="font-sans text-sm">Putra Pertama dari Bapak Risdi Isa & Ibu Eftiany Mokodompis </p>
+                        <p class="font-sans text-sm">Putra Pertama dari Bapak Alm Sarton Umar & Ibu Eftiany Mokodompis </p>
                        <a href="https://instagram.com/iky.umar"
    target="_blank"
    class="mt-4 inline-flex items-center gap-2 text-accent-gold hover:text-text-brown transition duration-300">
@@ -235,8 +235,13 @@
                             <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600" alt="Bride" class="w-full h-full arch-img">
                         </div>
                         <h3 class="font-serif text-3xl font-bold text-text-brown mb-2">Iftita Kending SM.</h3>
-                        <p class="font-sans text-sm">Putri dari Bapak [Nama Ayah] & Ibu [Nama Ibu]</p>
-                        <a href="#" class="mt-4 text-accent-gold hover:text-text-brown text-xl"><i class="fab fa-instagram"></i></a>
+                        <p class="font-sans text-sm">Putri dari Bapak Ikhsan Kending & Ibu Lili Ahmadi </p>
+                      <a href="https://instagram.com/Iftitaakending"
+   target="_blank"
+   class="mt-4 inline-flex items-center gap-2 text-accent-gold hover:text-text-brown transition duration-300">
+    <i class="fab fa-instagram text-xl"></i>
+    <span class="font-sans text-sm">@Iftitaakending</span>
+</a>
                     </div>
 
                 </div>
@@ -345,17 +350,10 @@
                 </p>
 
                 <div class="bg-white p-8 rounded-3xl shadow-lg border border-cream-dark">
-                    <h3 class="font-serif text-xl font-bold mb-6">Scan QRIS</h3>
-                    
-                    <!-- EDIT DI SINI: Gambar Barcode QRIS -->
-                    <!-- Ganti src dengan link gambar QRIS Anda sendiri -->
-                    <div class="bg-gray-100 p-4 rounded-xl inline-block mb-6">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/QR_code_for_mobile_English_Wikipedia.svg" alt="QRIS Placeholder" class="w-48 h-48 object-contain">
-                    </div>
-                    
+                                        
                     <div class="border-t border-cream-dark pt-6 text-sm">
                         <p class="font-bold text-lg mb-2">Transfer Bank</p>
-                        <p class="mb-1">BCA - 1234567890</p>
+                        <p class="mb-1">BCA - 0263981844</p>
                         <p class="mb-4">a.n Rizkiyanto Umar</p>
                         
                         <!-- Fungsi Copy -->
