@@ -235,7 +235,7 @@
                             <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600" alt="Bride" class="w-full h-full arch-img">
                         </div>
                         <h3 class="font-serif text-3xl font-bold text-text-brown mb-2">Iftita Kending SM.</h3>
-                        <p class="font-sans text-sm">Putri dari Bapak Ikhsan Kending & Ibu Lili Ahmadi </p>
+                        <p class="font-sans text-sm">Putri ketiga dari Bapak Ikhsan Kending & Ibu Lili Ahmadi </p>
                       <a href="https://instagram.com/Iftitaakending"
    target="_blank"
    class="mt-4 inline-flex items-center gap-2 text-accent-gold hover:text-text-brown transition duration-300">
