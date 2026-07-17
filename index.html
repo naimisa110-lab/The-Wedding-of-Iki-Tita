@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Undangan Pernikahan: Rizki & Iftita</title>
+    <title>Undangan Pernikahan: Rizky & Iftita</title>
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -112,7 +112,7 @@
     <section id="cover" class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-cream-base bg-opacity-95 bg-[url('https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=2000')] bg-cover bg-center bg-blend-overlay transition-transform duration-1000">
         <div class="text-center bg-cream-light/80 p-8 md:p-12 rounded-3xl shadow-xl backdrop-blur-sm border border-cream-dark max-w-md w-[90%] fade-in-up appear">
             <h3 class="font-sans tracking-widest text-sm uppercase text-text-brown mb-4">The Wedding Of</h3>
-            <h1 class="font-script text-6xl text-accent-gold mb-2 drop-shadow-sm">Rizki & Iftita</h1>
+            <h1 class="font-script text-6xl text-accent-gold mb-2 drop-shadow-sm">Rizky & Iftita</h1>
             <p class="font-serif text-xl italic text-text-brown mb-8">31 Juli 2026</p>
             
             <div class="mb-8 border-t border-b border-cream-dark py-4">
@@ -134,7 +134,7 @@
             <div class="absolute inset-0 bg-cream-base/80"></div>
             <div class="relative z-10 fade-in-up">
                 <p class="font-sans tracking-[0.2em] text-sm uppercase mb-4 font-semibold text-text-brown">Pernikahan Kita</p>
-                <h1 class="font-script text-7xl md:text-9xl text-accent-gold mb-4 drop-shadow-md">Rizki & Iftita</h1>
+                <h1 class="font-script text-7xl md:text-9xl text-accent-gold mb-4 drop-shadow-md">Rizky & Iftita</h1>
                 <p class="font-serif text-2xl mb-8">Jumat, 31 Juli 2026</p>
             </div>
             <div class="absolute bottom-10 z-10 floating">
@@ -214,7 +214,9 @@
                     <div class="text-center flex flex-col items-center">
                         <!-- EDIT DI SINI: Foto Mempelai Pria -->
                         <div class="w-64 h-80 bg-cream-dark p-2 rounded-[150px_150px_0_0] shadow-xl mb-6">
-                            <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=600" alt="Groom" class="w-full h-full arch-img">
+                            <img src="https://www.dropbox.com/scl/fi/zx5j3d7t9sctkyxilkmsc/IMG-20260717-WA0015.jpg?rlkey=u6t3htbyi16kcz3zh092ogpgk&raw=1"
+     alt="Groom"
+     class="w-full h-full object-cover object-top arch-img">
                         </div>
                         <h3 class="font-serif text-3xl font-bold text-text-brown mb-2">Rizkiyanto Umar SH.</h3>
                         <p class="font-sans text-sm">Putra Pertama dari Bapak Alm Sarton Umar & Ibu Eftiany Mokodompis </p>
@@ -232,10 +234,12 @@
                     <div class="text-center flex flex-col items-center">
                         <!-- EDIT DI SINI: Foto Mempelai Wanita -->
                         <div class="w-64 h-80 bg-cream-dark p-2 rounded-[150px_150px_0_0] shadow-xl mb-6">
-                            <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600" alt="Bride" class="w-full h-full arch-img">
+                            <img src="https://www.dropbox.com/scl/fi/ypf5onsmvzpi2fev6x1vx/IMG-20260717-WA0013.jpg?rlkey=qwipl0sr8712f5g5tywsgxxf9&raw=1"
+     alt="Bride"
+     class="w-full h-full object-cover object-top arch-img">
                         </div>
                         <h3 class="font-serif text-3xl font-bold text-text-brown mb-2">Iftita Kending SM.</h3>
-                        <p class="font-sans text-sm">Putri ketiga dari Bapak Ikhsan Kending & Ibu Lili Ahmadi </p>
+                        <p class="font-sans text-sm">Putri dari Bapak Ikhsan Kending & Ibu Lili Ahmadi </p>
                       <a href="https://instagram.com/Iftitaakending"
    target="_blank"
    class="mt-4 inline-flex items-center gap-2 text-accent-gold hover:text-text-brown transition duration-300">
@@ -308,8 +312,98 @@
             </div>
         </section>
 
-        <!-- ================= GALLERY SECTION ================= -->
-        <section class="py-20 px-4 bg-cream-base fade-in-up">
+<!-- ================= TURUT MENGUNDANG ================= -->
+<section class="py-20 px-4 bg-cream-light fade-in-up">
+
+    <div class="max-w-5xl mx-auto">
+
+        <div class="text-center mb-12">
+
+            <i class="fas fa-users text-5xl text-accent-gold mb-5"></i>
+
+            <h2 class="font-script text-6xl text-accent-gold mb-4">
+                Turut Mengundang
+            </h2>
+
+            <div class="w-24 h-1 bg-accent-gold mx-auto rounded-full mb-6"></div>
+
+            <p class="font-serif text-xl italic text-text-brown">
+                Dengan penuh rasa syukur, kami beserta keluarga besar
+                turut mengundang Bapak/Ibu/Saudara/i
+                untuk hadir memberikan doa restu kepada kedua mempelai.
+            </p>
+
+        </div>
+
+        <div class="bg-white rounded-3xl shadow-xl border border-cream-dark p-10">
+
+            <div class="grid md:grid-cols-2 gap-6 text-left">
+
+                <div>
+
+    <p>Alm. Ayub Mokodompis – Khadijah Gumohung</p>
+    <hr class="my-3">
+
+    <p>Kel. AKP Achirudin – Luawo</p>
+    <hr class="my-3">
+
+    <p>Kel. Rahman – Mokodompis</p>
+    <hr class="my-3">
+
+    <p>Kel. H. Ramin Buhang, S.Sos. – Mokodompis</p>
+    <hr class="my-3">
+
+    <p>Muchtar Rahman – Mokodompis</p>
+    <hr class="my-3">
+
+    <p>Kel. Yonal Isa, S.Ag.</p>
+    <hr class="my-3">
+
+    <p>Kel. Ahmadi – Akuba</p>
+    <hr class="my-3">
+
+    <p>Kel. Kending – Corneles</p>
+
+</div>
+
+                <div>
+
+    <p>Kel. Umar – Bagulu</p>
+    <hr class="my-3">
+
+    <p>Bpk. Hi. Sukardi Mokoginta – Miha <br><small>(Anggota DPRD)</small></p>
+    <hr class="my-3">
+
+    <p>Bpk. Carling Hasan – Losung <br><small>(Sekcam)</small></p>
+    <hr class="my-3">
+
+    <p>Kel. Malingkas – Bawo</p>
+    <hr class="my-3">
+
+    <p>Kel. Bpk. Kisman Hala – Ibrahim</p>
+    <hr class="my-3">
+
+    <p>Bpk. Hi. Dg. Gobel – Abraham</p>
+
+</div>
+
+            </div>
+
+        </div>
+
+        <div class="text-center mt-10">
+            <p class="font-serif italic text-xl text-text-brown">
+                Atas kehadiran dan doa restu yang diberikan,
+                kami mengucapkan terima kasih.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= GALLERY SECTION ================= -->
+<section class="py-20 px-4 bg-cream-base fade-in-up">
             <div class="max-w-5xl mx-auto text-center">
                 <h2 class="font-script text-5xl text-accent-gold mb-2">Galeri Momen</h2>
                 <p class="font-sans text-sm tracking-widest uppercase mb-10">Kenangan Kami</p>
@@ -318,22 +412,34 @@
                 <!-- Anda bisa mengganti URL di dalam atribut 'src' untuk mengubah foto galeri -->
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800" alt="Gallery 1" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/zc6f9dc2k1lbmxvg6n0z1/IMG_20260717_160649_155.jpg?rlkey=jvo75smlp297fmgvtgdw3vn2t&raw=1"
+     alt="Gallery 1"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800" alt="Gallery 2" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/ck6vvxj5so5rgh4bqydbs/IMG-20260717-WA0021.jpg?rlkey=4vr8pjlebb8yr843w2h6z18nj&raw=1"
+     alt="Gallery 2"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&q=80&w=800" alt="Gallery 3" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/ezeai3si62qu8t7r1ylck/IMG_20260717_162826_684.jpg?rlkey=cfauqp0ywqky3sq8jhr1hstmz&raw=1"
+     alt="Gallery 3"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=800" alt="Gallery 4" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/2xazno8rj4ymc8mltkqrf/IMG-20260717-WA0017.jpg?rlkey=5j9iaj5munlfyljboyzquaeq7&raw=1"
+     alt="Gallery 4"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=800" alt="Gallery 5" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/0z6m4k9v973qerle41uvs/IMG-20260717-WA0023.jpg?rlkey=e5udi7yw0zwlzcjp621v79odd&raw=1"
+     alt="Gallery 5"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                     <div class="overflow-hidden rounded-xl shadow-md h-48 md:h-64">
-                        <img src="https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&q=80&w=800" alt="Gallery 6" class="w-full h-full object-cover hover:scale-110 transition duration-500">
+                        <img src="https://www.dropbox.com/scl/fi/1qyl3uvjx703suv1m6v52/IMG-20260717-WA0019.jpg?rlkey=ukbqjeb1ui82ph3yix1z7be2e&raw=1"
+     alt="Gallery 6"
+     class="w-full h-full object-cover hover:scale-110 transition duration-500">
                     </div>
                 </div>
             </div>
@@ -372,7 +478,7 @@
                 <p class="font-sans text-sm mb-8">
                     Mohon konfirmasi kehadiran Bapak/Ibu/Saudara/i melalui tombol WhatsApp di bawah ini.
                 </p>
-                <a href="https://wa.me/6285117782942?text=Halo%20Rizki%20%26%20Iftita,%20saya%20akan%20hadir%20di%20acara%20pernikahan%20kalian!%20Selamat%20ya." target="_blank" class="inline-block bg-[#25D366] text-white px-8 py-4 rounded-full font-bold hover:bg-green-600 transition duration-300 shadow-lg text-lg flex items-center justify-center max-w-xs mx-auto">
+                <a href="https://wa.me/6285117782942?text=Halo%20Rizky%20%26%20Iftita,%20saya%20akan%20hadir%20di%20acara%20pernikahan%20kalian!%20Selamat%20ya." target="_blank" class="inline-block bg-[#25D366] text-white px-8 py-4 rounded-full font-bold hover:bg-green-600 transition duration-300 shadow-lg text-lg flex items-center justify-center max-w-xs mx-auto">
                     <i class="fab fa-whatsapp text-2xl mr-2"></i> Konfirmasi Kehadiran
                 </a>
             </div>
@@ -380,7 +486,7 @@
 
         <!-- ================= FOOTER ================= -->
         <footer class="py-10 bg-cream-dark text-center px-4">
-            <h1 class="font-script text-4xl text-text-brown mb-2">Rizki & Iftita</h1>
+            <h1 class="font-script text-4xl text-text-brown mb-2">Rizky & Iftita</h1>
 <div class="mt-6 mb-6">
     <p class="font-sans text-sm uppercase tracking-widest text-text-brown mb-2">
         Keluarga yang Berbahagia
@@ -393,7 +499,7 @@
     <p class="text-xl my-2">&</p>
 
     <h3 class="font-serif text-2xl font-bold text-accent-gold">
-        Keluarga KENDING - AHMAD
+        Keluarga KENDING - AHMADI
     </h3>
 </div>
             <p class="font-sans text-xs text-text-brown/70 tracking-widest">TERIMA KASIH ATAS DOA DAN RESTUNYA</p>
@@ -511,6 +617,9 @@ setInterval(function () {
     document.getElementById("seconds").innerHTML = seconds;
 
 }, 1000);
+    </script>
+<script type="module">
+        // Nanti kode Firebase akan ditempel di sini
     </script>
 </body>
 </html>
